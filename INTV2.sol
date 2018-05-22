@@ -1,0 +1,4 @@
+
+contract InvestmentNetworkTokenV2{
+	
+}
